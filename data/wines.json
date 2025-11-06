@@ -281,7 +281,7 @@
       "elevation": "50-150m"
     },
     {
-      "wine_number": "136",
+      "wine_number": "137",
       "wine_name": "VERDECA",
       "wine_producer": "VINEKA",
       "wine_vintage": "PUGLIA IGT 2023/TARANTO",
@@ -1239,26 +1239,6 @@
       "varietals": "100% Garganega",
       "soil": "Volcanic basalt and limestone",
       "elevation": "200-400m"
-    },
-    {
-      "wine_number": "310",
-      "wine_name": "LUGANA",
-      "wine_producer": "ALLEGRINI",
-      "wine_vintage": "(LUGANA DOC 2023)",
-      "wine_price_split": "12.9/49",
-      "wine_price_glass": "12.9",
-      "wine_price_bottle": "49",
-      "wine_price": null,
-      "wine_description": "FRUITY & CRISP LAKE GARDA CLASSIC",
-      "region": "VENETO",
-      "wine_type": "BIANCO",
-      "category": "VINI BIANCHI E ROSATI",
-      "organic": false,
-      "alcohol": "13.0%",
-      "aging": "Stainless steel, 6 months on lees",
-      "varietals": "100% Turbiana (Trebbiano di Lugana)",
-      "soil": "Clay with limestone and glacial deposits",
-      "elevation": "100-200m"
     },
     {
       "wine_number": "305",
